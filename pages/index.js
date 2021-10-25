@@ -36,8 +36,8 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>Contoh &rarr;</h2>
+            <p>Liat-liat contoh proyek yang available</p>
           </a>
 
           <a
@@ -46,7 +46,7 @@ export default function Home() {
           >
             <h2>Deploy &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Deploy langsung pake vercel!
             </p>
           </a>
         </div>
